@@ -1,20 +1,27 @@
-# 📝 Task Manager - Django & MySQL
+# 📝 Task Manager (Django)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-A robust Full-Stack Task Management application built to help users organize their daily goals and track progress efficiently.
+A professional and efficient web-based **Task Management System** built with Django. A high-performance, responsive web application to streamline your daily productivity.This application allows users to organize their daily tasks, track progress, and manage deadlines effectively.
 
 ---
 
 ## 🚀 Features
-* **Task CRUD:** Create, Read, Update, and Delete tasks.
-* **Status Tracking:** Mark tasks as Pending or Completed.
-* **Priority Levels:** Organize tasks based on importance.
+- **Task CRUD:** Create, Read, Update, and Delete tasks easily.
+- **Task Status:** Mark tasks as 'Completed' or 'Pending'.
+- **Status Tracking:** Mark tasks as Pending or Completed.
+- **Responsive UI:** Clean and modern design that works on mobile and desktop.
+- **Mobile First:** Fully responsive UI powered by Bootstrap 5.
+- **Progress Tracking:** Toggle status between Pending and Completed with one click.
+- **Priority Levels:** Organize tasks based on importance.
 
 ---
 
 ## 🛠️ Tech Stack
-* **Backend:** Python, Django
-* **Database:** sqlite
-* **Frontend:** HTML5, CSS3, Bootstrap
+- **Backend:** Python, Django
+- **Database:** SQLite
+- **Frontend:** HTML5, CSS3, Bootstrap (for responsive design)
 
 ---
 
