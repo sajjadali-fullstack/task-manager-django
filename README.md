@@ -18,6 +18,10 @@ A professional and efficient web-based **Task Management System** built with Dja
 
 ---
 
+The application is designed for individuals or teams who want a simple, web-based solution to manage productivity.  
+Built using **Django (Python)** for the backend, **SQLite** for the database, and **HTML/CSS/Bootstrap** for the frontend.
+
+---
 ## 🛠️ Tech Stack
 - **Backend:** Python, Django
 - **Database:** SQLite
